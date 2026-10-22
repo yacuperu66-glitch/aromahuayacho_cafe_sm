@@ -1,0 +1,13 @@
+{
+  "name": "aromahuayacho-cafe-sm",
+  "version": "1.0.0",
+  "description": "Aroma Huayacho - Café de origen amazónico",
+  "type": "module",
+  "scripts": {
+    "postinstall": "echo 'Dependencies installed successfully'"
+  },
+  "dependencies": {
+    "@vercel/analytics": "^1.3.1"
+  },
+  "devDependencies": {}
+}
